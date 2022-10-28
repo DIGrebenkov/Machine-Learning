@@ -27,6 +27,10 @@ Accuracy: 0.9150679996397371
 Precision: 0.6171581769436997
 Recall: 0.06610763310550802
 
+![image](https://user-images.githubusercontent.com/71839146/198705551-1e95afce-5259-443b-8575-c4e00b834300.png)
+
+![image](https://user-images.githubusercontent.com/71839146/198705601-c2d9e308-73e4-4d59-9b9a-540b2dcb203d.png)
+
 ##### Метод опорных векторов
 
 Подобранные параметры: learning rate: 0.001, epochs: 10, batch_size: 1000, alpha: 0.001
@@ -36,6 +40,10 @@ Recall: 0.06610763310550802
 Accuracy: 0.9628478789516347
 Precision: 0.8874146492861577
 Recall: 0.6568835793463902
+
+![image](https://user-images.githubusercontent.com/71839146/198705710-944270e8-56ff-4e08-a522-088e855f5d4d.png)
+
+![image](https://user-images.githubusercontent.com/71839146/198705743-403e1fb3-2744-4b0d-865f-4a95d23d0290.png)
 
 ##### Метод k-ближайших соседей
 
@@ -47,6 +55,10 @@ Accuracy:  0.9989142073713811
 Precision:  0.9955043227665706
 Recall:  0.9920165412670151
 
+![image](https://user-images.githubusercontent.com/71839146/198705836-44189b12-58b2-4e0b-8311-27aafc9b3298.png)
+
+![image](https://user-images.githubusercontent.com/71839146/198705874-c7f5124d-76e6-4597-9e03-b2363963acba.png)
+
 ##### Наивный байесовский классификатор
 
 Оценки метрик:
@@ -55,6 +67,10 @@ Accuracy:  0.949538162858887
 Precision:  0.7407650847903247
 Recall:  0.6472919418758256
 
+![image](https://user-images.githubusercontent.com/71839146/198705952-b691320f-c4e6-426e-93d6-49218a0a6410.png)
+
+![image](https://user-images.githubusercontent.com/71839146/198705971-7fdbc616-9f0f-4f7d-8204-f72ed23275d4.png)
+
 ### Вывод
 
-Наилучшие результаты показала модель (из коробки), основанная на методе k-ближайших соседей (k = 5), но и работала она дольше всего.ы
+Наилучшие результаты показала модель (из коробки), основанная на методе k-ближайших соседей (k = 5), но и работала она дольше всего.
