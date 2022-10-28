@@ -24,7 +24,9 @@
 Оценки метрик:
 
 Accuracy: 0.9150679996397371
+
 Precision: 0.6171581769436997
+
 Recall: 0.06610763310550802
 
 ![image](https://user-images.githubusercontent.com/71839146/198705551-1e95afce-5259-443b-8575-c4e00b834300.png)
@@ -38,7 +40,9 @@ Recall: 0.06610763310550802
 Оценки метрик:
 
 Accuracy: 0.9628478789516347
+
 Precision: 0.8874146492861577
+
 Recall: 0.6568835793463902
 
 ![image](https://user-images.githubusercontent.com/71839146/198705710-944270e8-56ff-4e08-a522-088e855f5d4d.png)
@@ -52,7 +56,9 @@ Recall: 0.6568835793463902
 Оценки метрик:
 
 Accuracy:  0.9989142073713811
+
 Precision:  0.9955043227665706
+
 Recall:  0.9920165412670151
 
 ![image](https://user-images.githubusercontent.com/71839146/198705836-44189b12-58b2-4e0b-8311-27aafc9b3298.png)
@@ -64,7 +70,9 @@ Recall:  0.9920165412670151
 Оценки метрик:
 
 Accuracy:  0.949538162858887
+
 Precision:  0.7407650847903247
+
 Recall:  0.6472919418758256
 
 ![image](https://user-images.githubusercontent.com/71839146/198705952-b691320f-c4e6-426e-93d6-49218a0a6410.png)
